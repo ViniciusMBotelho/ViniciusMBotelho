@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img align="center" src="./animated-name.svg" width="500" />
+  <img align="center" src="https://raw.githubusercontent.com/ViniciusMBotelho/ViniciusMBotelho/refs/heads/main/animated-name.svg" width="500" />
 </p>
 
 
