@@ -41,8 +41,8 @@ Sou graduando em Ciências da Computação no **Instituto Federal do Norte de Mi
 
 ## 📈 Github Status 
 <div align="center" display="inline">
-  <img width="50.77%" height="100%" margin="50%" src="https://github-readme-stats.vercel.app/api?username=ViniciusMBotelho&theme=dark&bg_color=2d2a35&title_color=1e90ff&text_color=ccc&icon_color=1e90ff">
-  <img width="40%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusMBotelho&layout=compact&langs_count=7&theme=dark&bg_color=2d2a35&title_color=1e90ff&text_color=ccc&icon_color=1e90ff"/>
+  <img width="53%" height="100%" src="https://github-readme-stats.vercel.app/api?username=ViniciusMBotelho&theme=github_dark&show_icons=true&rank_icon=github">
+  <img width="40.2%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusMBotelho&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 
