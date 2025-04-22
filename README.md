@@ -1,4 +1,4 @@
-## Hi there 👋
+# Olá, seja bem vindo!
 
 <!--
 **ViniciusMBotelho/ViniciusMBotelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,35 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <img align="center" src="./animated-name.svg" width="500" />
+</p>
+
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</div>
+
+## 💬 Sobre mim 
+Sou graduando em Ciências da Computação no **Instituto Federal do Norte de Minas Gerais** e sou apaixonado por criar interfaces interativas, robustas e responsivas que conectam pessoas aos seus objetivos. Atualmente, estou focado em construir uma carreira sólida no desenvolvimento **frontend**, considerando isso apenas o primeiro passo de uma jornada de crescimento. Minha motivação vem da constante busca por novos desafios e do ciclo contínuo de aprendizado, onde ver meus projetos tomando forma e evoluindo me impulsiona a aprender mais e me aprimorar. Esse processo de crescimento e realização é o que me mantém sempre motivado.
+
+
+## 📫 Onde me encontrar de contato 
+<div> 
+  <a href = "mailto:viniciusmcode@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/viniciusmacedo70/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+## 📈 Github Status 
+<div align="center" display="inline">
+  <img width="50.77%" height="100%" margin="50%" src="https://github-readme-stats.vercel.app/api?username=ViniciusMBotelho&theme=dark&bg_color=2d2a35&title_color=1e90ff&text_color=ccc&icon_color=1e90ff">
+  <img width="40%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusMBotelho&layout=compact&langs_count=7&theme=dark&bg_color=2d2a35&title_color=1e90ff&text_color=ccc&icon_color=1e90ff"/>
+</div>
+
+
