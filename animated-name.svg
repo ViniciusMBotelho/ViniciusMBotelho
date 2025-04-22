@@ -6,10 +6,10 @@
       gradientUnits="objectBoundingBox"
       x1="0" y1="0"
       x2="1" y2="0">
-      <stop offset="0%"   stop-color="#211C84"/>
-      <stop offset="33%"  stop-color="#4D55CC"/>
-      <stop offset="66%"  stop-color="#7A73D1"/>
-      <stop offset="100%" stop-color="#B5A8D5"/>
+      <stop offset="0%"   stop-color="#071952"/>
+      <stop offset="33%"  stop-color="#088395"/>
+      <stop offset="66%"  stop-color="#37B7C3"/>
+      <stop offset="100%" stop-color="#EBF4F6"/>
       <animateTransform
         attributeName="gradientTransform"
         attributeType="XML"
