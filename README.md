@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img align="center" src="animated-name.svg" width="500" />
+  <img align="center" src="https://raw.githubusercontent.com/ViniciusMBotelho/ViniciusMBotelho/refs/heads/main/animated-name.svg" width="500" />
 </p>
 
 
@@ -41,8 +41,8 @@ Sou graduando em Ciência da Computação no **Instituto Federal do Norte de Min
 
 ## 📈 Estatísticas do Github 
 <div align="center" display="inline">
-  <img width="53%" height="100%" src="https://github-readme-stats.vercel.app/api?username=ViniciusMBotelho&theme=github_dark&show_icons=true&rank_icon=github">
-  <img width="40.2%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusMBotelho&layout=compact&langs_count=7&theme=github_dark"/>
+  <img width="50.3%" height="100%" src="https://github-readme-stats.vercel.app/api?username=ViniciusMBotelho&theme=github_dark&show_icons=true&rank_icon=github">
+  <img width="45%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusMBotelho&layout=compact&langs_count=7&theme=github_dark&show_icons=true"/>
 </div>
 
 
